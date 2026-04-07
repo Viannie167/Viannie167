@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 What I'm Up To<br>- 🛠️ Bug Bounty Hunting: Currently hunting on [HackerOne/Bugcrowd] with a focus on Web App Sec.<br>- 🚩 CTF Junkie: Frequently spotted on HackTheBox :P<br>- 📖 Learning: Deep diving into Binary Exploitation and Reverse Engineering.<br>- 🔭 Goal: Landing a full-time Red Team role.<br><br> 🛠️ My Toolkit<br>- Languages: Python (for scripting), Bash, JavaScript, SQL.<br>- Tools: Burp Suite, Metasploit, Nmap, Wireshark, Ghidra.<br>- Specialties: OWASP Top 10, Reconnaissance, Privilege Escalation.<br><br>---<br> 💬 Random Log Entries<br>- Current Mood: Powered by Earl Grey and music :3<br>- When I'm not hacking: I'm probably [insert hobby: e.g., gaming, skating, or looking for the best ramen in town].<br><br> 📫 Reach Out<br>- Discord:  @vi0let418
 
-<!--
-**Viannie167/Viannie167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Viannie167&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Viannie167&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viannie167&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/viviannie167) 
+
+  
